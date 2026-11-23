@@ -28,6 +28,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | Name | What it is | Offer |
 | --- | --- | --- |
 | [Karma.Domains](https://karma.domains/en/black-friday/) | Expired domain search with Wayback Machine spam analysis, Karma Score, SEO metrics, a Public API and an MCP server. | Black Friday 2026: 50% OFF yearly Unlimited & Pro plans (Nov 27 - Nov 30, 2026 UTC) |
+| [DevWorkspace Pro](https://devworkspacepro.com/black-friday) | Desktop app that runs all your local projects (DDEV, Docker Compose, Laravel Sail, native) from one place, with Claude Code, Codex or OpenCode inside each project. | 40% OFF Monthly, Yearly and Lifetime plans with code BLACKFRIDAY40OFF (new purchases, Nov 9 - Dec 9, 2026 UTC) |
 
 ## Submit a deal
 
